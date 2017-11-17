@@ -20,7 +20,7 @@ Este procedimento pretende aferir, com base em declarações de titularidade, de
 
 ### Diagrama
 
-![Macintosh HD:Users:PNM:Downloads:MCA.LAND - Recolher Dados Sobre Direitos - New Page.png](../assets/macintosh_hduserspnmdownloadsmc.png)
+![Macintosh HD:Users:PNM:Downloads:MCA.LAND - Recolher Dados Sobre Direitos - New Page.png](../assets/macintosh_hduserspnmdownloadsmc.png)![](/assets/32.png)
 
 Figura 32 - Tipificar Direitos
 
