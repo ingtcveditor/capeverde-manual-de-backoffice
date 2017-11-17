@@ -23,7 +23,7 @@ Os prédios em cadastro diferido não estão em condições de obter o registo p
 * Entidades responsáveis pelas informações constantes na CIP/CPU, que preenchem os elementos da CIP/CPU;
 * Casa de Cidadão, que garante o nível de serviço acordado.
 
-### Diagrama
+### Diagrama![](/assets/MCA.LAND Emissões de CIP - New Page.png)
 
 Figura 63 - Solicitação e Emissão de CIP
 
