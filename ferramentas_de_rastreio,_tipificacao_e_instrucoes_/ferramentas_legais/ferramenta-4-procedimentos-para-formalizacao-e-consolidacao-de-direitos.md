@@ -44,7 +44,7 @@ Com o pagamento integral dos foros, atribui-se o direito de propriedade ao entã
 
 O registo predial obrigatório da remição de foro está isento de emolumentos notariais e de registo.
 
-![img\_3 Monica - Support Process \(1\).jpeg](../assets/img3_monica_-_support_process_1.jpeg)
+![](/assets/71.jpg)
 
 Figura 71 - Procedimentos para remição de foro \(aquisição de pleno direito\)
 
