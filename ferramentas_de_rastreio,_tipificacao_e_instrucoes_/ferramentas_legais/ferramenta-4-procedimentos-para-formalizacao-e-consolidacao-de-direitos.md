@@ -68,7 +68,7 @@ Sempre que não seja possível recorrer à justificação notarial, designadamen
 
 O juiz é livre para apreciar as provas. Pode ouvir testemunhas ou mandar realizar diligências probatórias que entender oportunas.
 
-![img\_5 Monica - Support Process.jpeg](../assets/img5_monica_-_support_process.jpeg)
+![](/assets/73.jpg)
 
 Figura 73 - Procedimentos para formalização de direitos – Justificação judicial
 
