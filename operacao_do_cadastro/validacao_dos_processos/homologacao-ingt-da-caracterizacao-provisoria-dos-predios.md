@@ -18,7 +18,7 @@ A homologação da caraterização provisória consiste em selecionar no sistema
 
 ### Diagrama
 
-![Macintosh HD:Users:PNM:Downloads:MCA.LAND Homologação INGT da Caracterização Provisória dos prédios - New Page \(1\).png](../assets/macintosh_hduserspnmdownloadsmc.png)
+![Macintosh HD:Users:PNM:Downloads:MCA.LAND Homologação INGT da Caracterização Provisória dos prédios - New Page \(1\).png](../assets/macintosh_hduserspnmdownloadsmc.png)![](/assets/MCA.LAND Homologação INGT da Caracterização Provisória dos prédios - New Page.png)
 
 Figura 54 - Homologação da Caracterização provisória
 
