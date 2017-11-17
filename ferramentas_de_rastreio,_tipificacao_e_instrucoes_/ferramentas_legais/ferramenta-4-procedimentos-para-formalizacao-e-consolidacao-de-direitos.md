@@ -58,7 +58,7 @@ O facto justificado na escritura pode ser impugnado em juízo por interessados d
 
 Só podem ser passadas certidões de escritura de justificação depois de decorridos 30 dias sobre a data em que o extrato for publicado, se dentro desse prazo não for recebida comunicação da pendência da impugnação.
 
-![img\_4 Monica - Support Process.jpeg](../assets/img4_monica_-_support_process.jpeg)
+![](/assets/72.jpg)
 
 Figura 72 - Procedimentos para formalização de direitos – Justificação Notarial
 
