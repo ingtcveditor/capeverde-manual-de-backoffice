@@ -16,7 +16,7 @@ Informar sobre a operação, em particular o trabalho de campo, mediante informa
 
 ### Diagrama
 
-![Macintosh HD:Users:PNM:Downloads:MCA.LAND - Sensibilização e comunicação - Use Case.png](../assets/macintosh_hduserspnmdownloadsmc.png)
+![Macintosh HD:Users:PNM:Downloads:MCA.LAND - Sensibilização e comunicação - Use Case.png](../assets/macintosh_hduserspnmdownloadsmc.png)![](/assets/27.png)
 
 Figura 27 - Sensibilização e Comunicação
 
