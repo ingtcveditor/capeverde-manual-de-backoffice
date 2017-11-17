@@ -14,9 +14,7 @@ Informar sobre a operação, em particular o trabalho de campo, mediante informa
 
 * Entidade Executante \(Equipa de terreno, núcleo/equipa de comunicação criado, incluindo especialista de comunicação e técnicos/agentes comunitários conhecedores da realidade local, ONG e associações\).
 
-### Diagrama
-
-![Macintosh HD:Users:PNM:Downloads:MCA.LAND - Sensibilização e comunicação - Use Case.png](../assets/macintosh_hduserspnmdownloadsmc.png)![](/assets/27.png)
+### Diagrama![](/assets/27.png)
 
 Figura 27 - Sensibilização e Comunicação
 
