@@ -10,7 +10,7 @@ Caso o bem imóvel tenha sido adquirido a um privado, a transacção deve ser fo
 
 Para o efeito, o presumível titular deve propor ao transmitente a formalização do negócio. No caso de impossibilidade ou recusa deste, deve recorrer ao Cartório Notarial para proceder à Justificação Notarial ou recorrer aos Tribunais Judiciais para proceder à Justificação Judicial.
 
-![img\_1 Monica - Support Process.jpeg](../assets/img1_monica_-_support_process.jpeg)
+![](/assets/69.jpg)
 
 Figura 69 - Formalização de direitos - Imóveis transaccionados por escrito particular/acordo verbal
 
