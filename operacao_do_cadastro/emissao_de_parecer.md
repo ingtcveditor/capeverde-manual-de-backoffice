@@ -4,6 +4,8 @@ Um processo constitui toda a sistematização dos dados \(proposta da Entidade E
 
 Considera-se que existem processos, designados como conforme, isto é que não contêm qualquer aspeto que possa impedir o cadastro definitivo, enquanto outros, por estarem condicionados por disputas, restrições, situações de vulnerabilidade, regularização ou formalização, necessitam de tratamento adicional nessas diferentes dimensões; o sistema não sinaliza automaticamente esta diferenciação pelo que é utilizado uma ferramenta adicional \(folha de controlo de processos\) de suporte a este modelo.
 
+![](/assets/50.jpg)
+
 Figura 50 - Emissão de Parecer
 
 ###  {#emiss-o-de-parecer-para-processos-conforme}
