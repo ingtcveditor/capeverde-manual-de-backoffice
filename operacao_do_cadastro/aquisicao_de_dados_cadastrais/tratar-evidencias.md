@@ -22,7 +22,7 @@ No final de este processo de triagem pretende-se que a atividade de campo subseq
 
 ### Diagrama
 
-![Macintosh HD:Users:PNM:Downloads:MCA.LAND Tratar evidências - New Page.png](../assets/macintosh_hduserspnmdownloadsmc.png)
+![Macintosh HD:Users:PNM:Downloads:MCA.LAND Tratar evidências - New Page.png](../assets/macintosh_hduserspnmdownloadsmc.png)![](/assets/MCA.LAND Tratar evidências - New Page.png)
 
 Figura 23 - Tratar evidências
 
