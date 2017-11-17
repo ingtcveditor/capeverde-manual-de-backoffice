@@ -19,7 +19,7 @@ Se durante a sua qualificação surgir alguma evidência de conflito, situação
 
 * Obter o parecer da EE com vista a caracterização provisória a ser submetida a Consulta Pública.
 
-### Diagrama
+### Diagrama![](/assets/51.jpg)
 
 Figura 51 - Emissão de Parecer para Processos Conforme
 
