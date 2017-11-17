@@ -16,7 +16,7 @@ O sistema não permite de momento a emissão de um comprovativo de reclamação,
 
 Reclamação dos titulares cadastrais e qualquer outro interessado à Entidade Executante.
 
-### Diagrama
+### Diagrama![](/assets/MCA.LAND Recepção de Reclamações - New Page.png)
 
 Figura 58 - Recepção de Reclamação
 
