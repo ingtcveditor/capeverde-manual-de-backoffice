@@ -16,7 +16,7 @@ Atualizar os dados da proposta com uma análise mais cuidada das evidências exi
 
 * EE \(Qualificador\).
 
-### Diagrama
+### Diagrama![](/assets/45.jpg)
 
 Figura 45 - Tratar Informação sobre Evidências
 
