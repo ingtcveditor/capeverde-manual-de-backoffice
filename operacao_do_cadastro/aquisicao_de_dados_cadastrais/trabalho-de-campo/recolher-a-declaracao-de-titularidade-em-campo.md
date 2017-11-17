@@ -50,7 +50,7 @@ A.1 Declaração\(ões\) pertencentes a empreendimentos/complexos turísticos
 
 ### Fluxograma
 
-![Recolher a Declaração de Titularidade - New Page.jpeg](../assets/recolher_a_declaracao_de_titularida.jpeg)![](/assets/35.jpg)
+![](/assets/35.jpg)
 
 Figura 35 - Fluxograma Recolha da declaração em campo
 
