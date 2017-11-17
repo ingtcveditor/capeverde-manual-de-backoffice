@@ -40,9 +40,7 @@ As evidências dependem do direito em questão, há que verificar se as evidênc
 | Servidão predial | Depende de verificação de necessidade |
 | Posse com características legalmente relevantes para a aquisição do direito de propriedade | Situações diversas de posse com direitos não formalizados. Os documentos **a tratar** dependem do modo de aquisição /direito. São documentos a tratar \(mais do que evidências a recolher\), já que os prédios ficam com esta classificação de direito precisamente por não haver evidências que permitem demonstrar o direito em questão, existindo apenas presunção. Por exemplo: Aforamento por formalizar, na ausência de contrato de aforamento; Ocupação / posse cumprindo critério para aquisição por usucapião, quando ainda não foi feito procedimento de formalização por justificação notarial ou judicial \(Câmaras Municipais por vezes aplicam mecanismo de justificação administrativa quando o terreno é do Município\); Compra e venda \(ou outra transmissão\) na ausência de escritura pública \(caso o prédio não esteja inscrito no registo predial\); Outras situações específicas, como por exemplo habitação social da Câmara, em que o\(a\) beneficiário\(a\) tem um contrato de tipo renda resolúvel, pelo que o direito de propriedade só lhe é transmitido uma vez completados os pagamentos devidos |
 
-De seguida é exemplificado o fluxo geral da aquisição para caracterização jurídica do prédio, sendo logo de seguida detalhadas as situações mais frequentes, que são as de transmissão inter-vivos, transmissão mortis causa e aforamento.
-
-![Imagem intercalada 1](../assets/imagem_intercalada_1.png)![](/assets/65.png)
+De seguida é exemplificado o fluxo geral da aquisição para caracterização jurídica do prédio, sendo logo de seguida detalhadas as situações mais frequentes, que são as de transmissão inter-vivos, transmissão mortis causa e aforamento.![](/assets/65.png)
 
 Figura 65 - Procedimentos para recolha de informações relativas a atos inter vivos
 
