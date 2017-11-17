@@ -43,6 +43,8 @@ Para cada bloco cadastral o analista deve:
 
 ### Fluxogramas
 
+![](/assets/MCA.LAND WF Identificação das Restrições ambientais - Fluxograma - New Page.png)
+
 Figura 25 - Fluxograma Identificação de restrições ambientais
 
 ### Pós-Condições
