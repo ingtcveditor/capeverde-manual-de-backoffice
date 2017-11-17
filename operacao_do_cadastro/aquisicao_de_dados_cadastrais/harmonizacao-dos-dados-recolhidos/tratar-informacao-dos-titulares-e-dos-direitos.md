@@ -22,7 +22,7 @@ Vai ser necessário tipificar o modo de aquisição, modificação ou extinção
 * Tipologia de conflitos;
 * Formalização/Regularização de Direitos**.**
 
-### Diagrama
+### Diagrama![](/assets/43.jpg)
 
 Figura 43 - Tratar Informação dos Direitos
 
