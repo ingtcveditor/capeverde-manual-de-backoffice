@@ -51,7 +51,7 @@ Concluída a sua inscrição, o **inquiridor** passa para o procedimento de veri
 
 ### Fluxograma
 
-![Verificar e Recolher Dados dos Sujeitos e Titulares.jpeg](../assets/verificar_e_recolher_dados_dos_suje.jpeg)![](/assets/31.jpg)
+![](/assets/31.jpg)
 
 Figura 31 - Fluxograma Registar Titular
 
