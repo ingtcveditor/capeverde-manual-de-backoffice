@@ -10,7 +10,7 @@ O tratamento da \(s\) declaração \(ões\) consiste na verificação dos dados 
 
 * EE \(Técnico legal\).
 
-### Diagrama
+### Diagrama![](/assets/MCA.LAND Tratar Proposta em Função da Inf. da Decl - Use Case.png)
 
 Figura 40 - Tratar Proposta em função da informação da declaração
 

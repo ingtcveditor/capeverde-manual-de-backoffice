@@ -22,6 +22,8 @@ Titular cadastral.
 
 ### Diagrama
 
+
+
 Figura 37 - Emitir Comprovativo da visita
 
 ### Sequência típica
