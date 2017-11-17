@@ -20,9 +20,7 @@ Inquiridor \(EE\);
 
 Titular cadastral.
 
-### Diagrama
-
-
+### Diagrama![](/assets/37.jpg)
 
 Figura 37 - Emitir Comprovativo da visita
 
