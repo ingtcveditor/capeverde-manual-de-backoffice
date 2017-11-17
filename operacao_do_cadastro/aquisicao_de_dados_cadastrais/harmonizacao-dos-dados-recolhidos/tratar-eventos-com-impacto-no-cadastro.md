@@ -18,7 +18,7 @@ Este procedimento que deve ser feito periodicamente e sempre que necessário vis
 
 * EE \(Qualificador\).
 
-### Diagrama
+### Diagrama ![](/assets/MCA.LAND Tratar eventos com impacto no cadastro - New Page.png)
 
 Figura 47 - Tratar Eventos com Impacto no cadastro
 
