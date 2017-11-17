@@ -40,6 +40,8 @@ Deve-se priorizar os com parecer para “Cadastro” em detrimento dos que estã
 
 ### Fluxograma
 
+![](/assets/MCA.LAND Caracterização Definitiva v4.0 - Fluxograma - New Page.png)
+
 Figura 61 - Fluxograma Caracterização Definitiva
 
 ### Pós- Condições
