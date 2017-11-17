@@ -44,9 +44,7 @@ De seguida é exemplificado o fluxo geral da aquisição para caracterização j
 
 Figura 65 - Procedimentos para recolha de informações relativas a atos inter vivos![](/assets/66.png)
 
-Figura 66 - Ferramenta para recolha de dados para a caracterização jurídica do prédio
-
-![Imagem intercalada 1](../assets/imagem_intercalada_1.png)
+Figura 66 - Ferramenta para recolha de dados para a caracterização jurídica do prédio![](/assets/67.png)
 
 Figura 67 - Procedimentos para recolha de informações relativas a atos mortis causa
 
