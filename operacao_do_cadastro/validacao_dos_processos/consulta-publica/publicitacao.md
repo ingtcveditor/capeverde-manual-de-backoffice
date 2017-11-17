@@ -18,6 +18,8 @@ Publicitar a consulta pública da caracterização provisória, de acordo com os
 
 ### Diagrama
 
+
+
 Figura 56 - Publicitar Consulta Pública
 
 ### Interveniente

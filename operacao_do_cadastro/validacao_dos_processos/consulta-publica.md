@@ -4,5 +4,7 @@ Um dos princípios gerais previstos por lei para o cadastro predial é o reforç
 
 As secções que se seguem descrevem a forma de implementar este mecanismo de consulta pública, considerando os requisitos para a sua publicitação, a forma de disponibilizar a caracterização provisória, e a recepção e o tratamento das reclamações. De referir que nenhuma consulta pública pode ter início sem que a respectiva seção cadastral \(ou respectivas seções cadastrais\), esteja\(m\) caracterizada\(s\) na totalidade \(ou seja, com todos os seus prédios caracterizados provisoriamente\).
 
+## **Diagrama**![](/assets/MCA.LAND - Consulta Pública - New Page.png)
+
 Figura 55 - Consulta Pública
 
