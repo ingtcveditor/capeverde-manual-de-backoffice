@@ -57,7 +57,7 @@ A1 - Direitos relacionados a empreendimentos/complexos turísticos
 
 ### Fluxograma
 
-![INSERIDO - Verificar e Recolher Dados Sobre Direitos, Responsabilidade e Restrições - New Page.jpeg](../assets/inserido_-_verificar_e_recolher_dad.jpeg)![](/assets/INSERIDO - Verificar e Recolher Dados Sobre Direitos, Responsabilidade e Restrições - New Page.png)
+![](/assets/INSERIDO - Verificar e Recolher Dados Sobre Direitos, Responsabilidade e Restrições - New Page.png)
 
 Figura 33 - Fluxograma Tipificar Direitos
 
