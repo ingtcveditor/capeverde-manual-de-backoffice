@@ -45,6 +45,8 @@ Figura 43 - Tratar Informação dos Direitos
 
 ### Fluxograma
 
+![](/assets/44.jpg)
+
 Figura 44 - Fluxograma Tratar Informação dos Direitos
 
 ### Pós-Condições
