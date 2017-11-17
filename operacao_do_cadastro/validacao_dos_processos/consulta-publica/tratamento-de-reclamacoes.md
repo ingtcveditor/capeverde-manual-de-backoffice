@@ -12,7 +12,7 @@ Se a reclamação for deferida pela EAT, implicando alteração da caracterizaç
 
 * Tratar reclamação dos titulares cadastrais e qualquer outro interessado e submissão à EAT para avaliação e decisão, e notificação da decisão.
 
-### Diagrama
+### Diagrama![](/assets/59.jpg)
 
 Figura 59 - Tratamento de Reclamações
 
