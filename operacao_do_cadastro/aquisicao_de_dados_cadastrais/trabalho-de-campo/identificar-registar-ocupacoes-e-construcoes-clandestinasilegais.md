@@ -39,7 +39,7 @@ A1, Não está presente nenhum ocupante ou representante =&gt; Tratar ausência.
 
 ### Fluxograma
 
-![Identificar, Registar Ocupações e Construções Clandestinas-Ilegais.jpeg](../assets/identificar,_registar_ocupacoes_e_c.jpeg)![](/assets/INSERIDO - Identificar, Registar Ocupações e Construções Clandestinas_Ilegais - New Page.png)
+![](/assets/INSERIDO - Identificar, Registar Ocupações e Construções Clandestinas_Ilegais - New Page.png)
 
 Figura 36 - Identificar, Registar Ocupações e Construções Clandestinas/Ilegais
 
