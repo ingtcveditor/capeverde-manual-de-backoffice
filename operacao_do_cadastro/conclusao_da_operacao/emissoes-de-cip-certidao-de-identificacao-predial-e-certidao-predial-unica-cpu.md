@@ -54,7 +54,7 @@ B1 - O requerente utiliza o portal do cidadão para obter a certidão:
 3. O requerente escolhe o NIP, e podendo ou não consultar os dados, escolhe CIP/CPU;
 4. O utilizador submete o pedido ao sistema e continua com a sequência típica.
 
-### Fluxograma
+### Fluxograma![](/assets/MCA.LAND - Solicitação e Emissão de CIP - Fluxograma - Use Case.png)
 
 Figura 64 - Fluxograma Solicitação e Emissão de CIP
 
