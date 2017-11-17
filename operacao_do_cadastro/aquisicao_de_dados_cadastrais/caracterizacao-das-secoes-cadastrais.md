@@ -28,7 +28,7 @@ NOTA: caso os _layers_ não existam no sistema \(LMITS\), esta análise é feita
 
 ### Diagrama
 
-![Macintosh HD:Users:PNM:Downloads:MCA.LAND Identificar Restrição Ambiental - New Page.png](../assets/macintosh_hduserspnmdownloadsmc.png)
+![](/assets/MCA.LAND Identificar Restrição Ambiental - New Page.png)
 
 Figura 24 - Caracterizar as restrições de cada bloco cadastral
 
