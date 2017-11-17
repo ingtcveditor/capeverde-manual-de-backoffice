@@ -23,9 +23,7 @@ As Câmaras Municipais ficam obrigadas a demarcar ou fornecer informações sobr
 * EE \(Topógrafo\);
 * Titular.
 
-### Diagrama
-
-
+### Diagrama![](/assets/28.jpg)
 
 Figura 28 - Caracterização física da parcela
 
