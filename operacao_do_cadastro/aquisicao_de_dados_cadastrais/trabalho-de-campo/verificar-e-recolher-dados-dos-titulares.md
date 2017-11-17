@@ -20,7 +20,7 @@ No âmbito da execução do Cadastro, poderiam ser delegadas competências para 
 
 ### Diagrama
 
-![Macintosh HD:Users:PNM:Downloads:MCA.LAND - Registar Titular - New Page \(1\).png](../assets/macintosh_hduserspnmdownloadsmc.png)
+![Macintosh HD:Users:PNM:Downloads:MCA.LAND - Registar Titular - New Page \(1\).png](../assets/macintosh_hduserspnmdownloadsmc.png)![](/assets/MCA.LAND - Registar Titular - New Page.png)
 
 Figura 30 - Registar Titular
 
