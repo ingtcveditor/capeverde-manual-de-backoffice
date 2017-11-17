@@ -12,7 +12,7 @@ O tratamento da informação do prédio visa a obtenção da mais verídica desc
 
 * EE \(Qualificador\).
 
-### Diagrama
+### Diagrama![](/assets/41.jpg)
 
 Figura 41 - Verificar Caracterização da Parcela
 
