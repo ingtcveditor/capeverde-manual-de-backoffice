@@ -20,7 +20,7 @@ Com efeito, nenhuma consulta pública pode ter início sem que a respectiva seç
 * EE \(Backoffice ou Gabinete de Apoio\)
 * EAT.
 
-### Diagrama
+### Diagrama![](/assets/53.jpg)
 
 Figura 53 - Emitir Parecer sobre Casos Pendentes
 
