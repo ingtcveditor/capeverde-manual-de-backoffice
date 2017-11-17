@@ -42,9 +42,7 @@ As evidências dependem do direito em questão, há que verificar se as evidênc
 
 De seguida é exemplificado o fluxo geral da aquisição para caracterização jurídica do prédio, sendo logo de seguida detalhadas as situações mais frequentes, que são as de transmissão inter-vivos, transmissão mortis causa e aforamento.![](/assets/65.png)
 
-Figura 65 - Procedimentos para recolha de informações relativas a atos inter vivos
-
-![Imagem intercalada 1](../assets/imagem_intercalada_1.png)
+Figura 65 - Procedimentos para recolha de informações relativas a atos inter vivos![](/assets/66.png)
 
 Figura 66 - Ferramenta para recolha de dados para a caracterização jurídica do prédio
 
