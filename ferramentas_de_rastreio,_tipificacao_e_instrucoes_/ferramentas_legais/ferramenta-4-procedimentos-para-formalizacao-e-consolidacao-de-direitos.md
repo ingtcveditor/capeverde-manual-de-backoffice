@@ -28,7 +28,7 @@ A escritura de habilitação deve ser instruída com os seguintes documentos:
 
 A certidão de habilitação de herdeiros notarial \(obtida findo o período de publicitação \(editais\) do extrato da habilitação e não havendo contestação\) tem os mesmos efeitos da habilitação judicial - requerida nos tribunais - e é título bastante para que se possam fazer em comum, a favor de todos os herdeiros e do cônjuge meeiro, o registo dos imóveis nos serviços do registo predial, que pode ser requerido por qualquer dos herdeiros habilitados ou pelo cônjuge meeiro.
 
-![img\_2 Monica - Support Process \(1\).jpeg](../assets/img2_monica_-_support_process_1.jpeg)
+![](/assets/70.jpg)
 
 Figura 70 - Procedimento para habilitação de herdeiros
 
