@@ -14,7 +14,7 @@ Este procedimento explica como são produzidos os editais.
 
 * Produzir os editais e afixá-los no local da consulta pública, bem como através da internet.
 
-### Diagrama
+### Diagrama![](/assets/57.jpg)
 
 Figura 57 - Impressão e Publicação de Documentos para Consulta Pública
 
