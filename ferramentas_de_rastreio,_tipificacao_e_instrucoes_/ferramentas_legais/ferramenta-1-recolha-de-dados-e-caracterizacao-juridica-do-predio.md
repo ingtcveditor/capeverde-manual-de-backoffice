@@ -46,9 +46,7 @@ Figura 65 - Procedimentos para recolha de informações relativas a atos inter v
 
 Figura 66 - Ferramenta para recolha de dados para a caracterização jurídica do prédio![](/assets/67.png)
 
-Figura 67 - Procedimentos para recolha de informações relativas a atos mortis causa
-
-![Imagem intercalada 1](../assets/imagem_intercalada_1.png)
+Figura 67 - Procedimentos para recolha de informações relativas a atos mortis causa![](/assets/68.png)
 
 Figura 68 - Procedimentos para recolha de informações relativas ao aforamento
 
