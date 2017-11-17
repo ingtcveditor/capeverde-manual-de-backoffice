@@ -18,6 +18,8 @@ Atualizar os dados da proposta com uma análise mais cuidada das evidências exi
 
 ### Diagrama
 
+
+
 Figura 45 - Tratar Informação sobre Evidências
 
 ### Sequência típica
@@ -39,7 +41,7 @@ Figura 45 - Tratar Informação sobre Evidências
 
 ### Fluxograma
 
-![Tratar Informação sobre Evidências - New Page.jpeg](../assets/tratar_informacao_sobre_evidencias.jpeg)
+![Tratar Informação sobre Evidências - New Page.jpeg](../assets/tratar_informacao_sobre_evidencias.jpeg)![](/assets/INSERIDO - Tratar Informação sobre Evidências - New Page.png)
 
 Figura 46 - Fluxograma Tratar Informação sobre Evidências
 
