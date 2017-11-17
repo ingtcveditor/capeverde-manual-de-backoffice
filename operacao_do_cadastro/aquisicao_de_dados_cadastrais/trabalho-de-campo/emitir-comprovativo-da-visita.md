@@ -37,6 +37,8 @@ Figura 37 - Emitir Comprovativo da visita
 
 ### Fluxograma
 
+![](/assets/38.jpg)
+
 Figura 38 - Fluxograma Emitir Comprovativo
 
 ### Outras sequências
