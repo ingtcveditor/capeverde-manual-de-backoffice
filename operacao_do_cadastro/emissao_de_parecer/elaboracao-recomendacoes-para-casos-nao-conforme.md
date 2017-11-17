@@ -24,7 +24,7 @@ Caso não estejam disponíveis no sistema as funcionalidades para encaminhamento
 
 ### Diagrama
 
-![Macintosh HD:Users:PNM:Downloads:MCA.LAND Qualificar Processo Não Conforme - New Page.png](../assets/macintosh_hduserspnmdownloadsmc.png)
+![Macintosh HD:Users:PNM:Downloads:MCA.LAND Qualificar Processo Não Conforme - New Page.png](../assets/macintosh_hduserspnmdownloadsmc.png)![](/assets/MCA.LAND Qualificar Processo Não Conforme - New Page.png)
 
 Figura 52 - Emissão de Parecer para Processos Não Conforme
 
