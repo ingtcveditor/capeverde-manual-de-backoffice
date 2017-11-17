@@ -1,3 +1,6 @@
+
+---
+
 ## Recolher Dados da Parcela: Delimitação, Demarcação e Restrições
 
 ### Âmbito
@@ -103,6 +106,4 @@ D5. O polígono pertence a um empreendimento/complexo turístico.
 * Propostas criadas, um por cada registo predial, no sistema e associados ao respetivo polígono \(parcela de terreno\);
 * Dados cadastrais obrigatórios para a identificação física para os prédios recolhidos;
 * Registo da visita para cada unidade \(prédio\).
-
-
 
