@@ -25,11 +25,13 @@ As Câmaras Municipais ficam obrigadas a demarcar ou fornecer informações sobr
 
 ### Diagrama
 
+
+
 Figura 28 - Caracterização física da parcela
 
 ### Fluxograma
 
-![Recolher e Dados da Parcela e sua Demarcação.jpeg](../assets/recolher_e_dados_da_parcela_e_sua_d.jpeg)
+![Recolher e Dados da Parcela e sua Demarcação.jpeg](../assets/recolher_e_dados_da_parcela_e_sua_d.jpeg)![](/assets/INSERIDO - Recolher e Dados da Parcela e sua Demarcação - New Page.png)
 
 Figura 29 - Caracterização física da parcela
 
