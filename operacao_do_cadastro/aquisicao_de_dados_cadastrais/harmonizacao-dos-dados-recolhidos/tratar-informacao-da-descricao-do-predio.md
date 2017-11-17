@@ -51,7 +51,7 @@ Para os empreendimentos/complexos turísticos com parcelas que estejam em regime
 
 ### Fluxograma
 
-![Tratar Informação do Prédio na Proposta - New Page.jpeg](../assets/tratar_informacao_do_predio_na_prop.jpeg)
+![](/assets/42.jpg)
 
 Figura 42 - Fluxograma Verificar Caracterização da Parcela
 
