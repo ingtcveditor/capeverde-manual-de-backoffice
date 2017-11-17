@@ -16,7 +16,7 @@ A homologação da caracterização definitiva vai permitir também criar a list
 
 ### Diagrama
 
-![Macintosh HD:Users:PNM:Downloads:MCA.LAND - Homologação INGT da Caractarização Definitiva - Use Case.png](../assets/macintosh_hduserspnmdownloadsmc.png)
+![Macintosh HD:Users:PNM:Downloads:MCA.LAND - Homologação INGT da Caractarização Definitiva - Use Case.png](../assets/macintosh_hduserspnmdownloadsmc.png)![](/assets/62.png)
 
 Figura 62 - Homologação da Caracterização Definitiva
 
