@@ -18,7 +18,7 @@ Quando a caracterização provisória é validada pela EAT, os prédios ficam au
 * Ferramenta de verificação
 * Lista de verificações da EAT: caracterização definitiva.
 
-### Diagrama
+### Diagrama![](/assets/60.jpg)
 
 Figura 60 - Caracterização Definitiva
 
