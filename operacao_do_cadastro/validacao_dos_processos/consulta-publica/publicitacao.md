@@ -16,9 +16,7 @@ Tendo em conta que a consulta da caracterização provisória poderá decorrer a
 
 Publicitar a consulta pública da caracterização provisória, de acordo com os requisitos legais e divulgá-la de forma ampla.
 
-### Diagrama
-
-
+### Diagrama![](/assets/MCA.LAND Publicitar Consulta Pública - New Page.png)
 
 Figura 56 - Publicitar Consulta Pública
 
