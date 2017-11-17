@@ -14,9 +14,7 @@ A homologação da caracterização definitiva vai permitir também criar a list
 
 * Homologar nos termos da lei o processo, originando as respetivas entradas/registos no cadastro e no registo predial.
 
-### Diagrama
-
-![Macintosh HD:Users:PNM:Downloads:MCA.LAND - Homologação INGT da Caractarização Definitiva - Use Case.png](../assets/macintosh_hduserspnmdownloadsmc.png)![](/assets/62.png)
+### Diagrama![](/assets/62.png)
 
 Figura 62 - Homologação da Caracterização Definitiva
 
