@@ -94,4 +94,8 @@
   * [Norma Técnica para Execução Cadastral](annexos/norma-tecnica-para-execucao-cadastral.md)
     * [Sistema de Referência de Coordenadas Geográficas](annexos/norma-tecnica-para-execucao-cadastral/normas.md)
     * [Sistema de Referência de Coordenadas Planimétricas](annexos/norma-tecnica-para-execucao-cadastral/sistema-de-referencia-de-coordenadas-planimetricas.md)
+  * [Exemplos de evidências/documentos aceites no processo de recolha de dados](annexos/exemplos-de-evidenciasdocumentos-aceites-no-processo-de-recolha-de-dados.md)
+    * [Plantas](annexos/exemplos-de-evidenciasdocumentos-aceites-no-processo-de-recolha-de-dados/plantas.md)
+    * [Escrituras](annexos/exemplos-de-evidenciasdocumentos-aceites-no-processo-de-recolha-de-dados/escrituras.md)
+    * [Certidões](annexos/exemplos-de-evidenciasdocumentos-aceites-no-processo-de-recolha-de-dados/certidoes.md)
 

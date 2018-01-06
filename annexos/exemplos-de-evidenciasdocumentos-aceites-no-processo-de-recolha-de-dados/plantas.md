@@ -1,0 +1,4 @@
+## Plantas
+
+![](/assets/planta.jpg)
+
