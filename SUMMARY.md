@@ -91,4 +91,5 @@
   * [Verificação da Qualidade de Dados](controle_de_qualidade/verificacao_da_qualidade_de_dados.md)
 * [Annexos](annexos.md)
   * [Edital](annexos/edital.md)
+  * [Norma Técnica para Execução Cadastral](annexos/norma-tecnica-para-execucao-cadastral.md)
 
