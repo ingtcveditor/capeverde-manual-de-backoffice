@@ -92,4 +92,6 @@
 * [Annexos](annexos.md)
   * [Edital](annexos/edital.md)
   * [Norma Técnica para Execução Cadastral](annexos/norma-tecnica-para-execucao-cadastral.md)
+    * [Sistema de Referência de Coordenadas Geográficas](annexos/norma-tecnica-para-execucao-cadastral/normas.md)
+    * [Sistema de Referência de Coordenadas Planimétricas](annexos/norma-tecnica-para-execucao-cadastral/sistema-de-referencia-de-coordenadas-planimetricas.md)
 
